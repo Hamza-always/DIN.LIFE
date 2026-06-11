@@ -1,0 +1,23 @@
+{
+  "name": "din-life",
+  "version": "1.0.0",
+  "description": "DIN - Do It Now: A productivity task management application",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hamza-always/DIN.LIFE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hamza-always/DIN.LIFE/issues"
+  },
+  "homepage": "https://github.com/Hamza-always/DIN.LIFE#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
